@@ -342,7 +342,9 @@ var filesToLoad = [];
 			if(checkboxes[i].checked){
 				for(var p = ((len - i - 1)*10)+9; p >= (len - i - 1)*10; p--) {
 					console.log(p);
-					checkedBoxes.push(p);
+					if(p <= 181){
+						checkedBoxes.push(p);
+					}
 				}
 			}
 		}
