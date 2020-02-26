@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/IvanLudvig/message-retrieval-tool/issues"
   },
-  "homepage": "https://github.com/IvanLudvig/message-retrieval-tool#readme"
+  "homepage": "https://github.com/IvanLudvig/message-retrieval-tool#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
