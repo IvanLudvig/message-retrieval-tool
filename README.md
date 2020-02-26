@@ -1,4 +1,2 @@
-# Message Retrieval Tool
-Message Retrieval Tool (MRT) for the Live Counting thread
-
-Access it here: https://co3carbonate.github.io/message-retrieval-tool/
+# Message Retrieval Tool for LC chats
+Message Retrieval Tool (MRT) for the Live Counting (incudes only messages with text)
