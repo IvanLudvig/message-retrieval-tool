@@ -4,14 +4,14 @@ import os
 
 
 def clear():
-    for n in range(219, 232):
+    for n in [219]:
         output = open('comments/chat' + str(n) + '.json', 'w+')
         output.write("")
         output.close()
 
 
-# clear()
-for n in range(219, 232):
+clear()
+for n in [219]:
     print(n)
     output = open('comments/chat' + str(n) + '.json', 'a+')
     output.write("[")
